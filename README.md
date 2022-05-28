@@ -1,5 +1,5 @@
 # Bestie Burger
-Responsive website with an admin interface
+A responsive website with an admin interface
 
 ![BestieBurger-1](https://user-images.githubusercontent.com/105500912/170842608-301f299c-63d7-4ad1-ac93-071c4797f001.jpg)
 
